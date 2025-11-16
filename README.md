@@ -1,1 +1,1 @@
-# kaialii-DATA-342-Fall-2025-Lab-3
+# DATA-342-Fall-2025-Lab-3
